@@ -1,0 +1,9 @@
+[package]
+name = "pe819"
+version = "0.1.0"
+author = "Giula Vieira"
+edition = "2021"
+
+[dependencies]
+rand = "0.8.5"
+num_cpus = "1.15.0"
